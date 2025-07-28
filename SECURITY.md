@@ -2,10 +2,9 @@
 
 ## Supported Versions
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+V tabulce níže jsou uvedeny verze tohoto projektu, které jsou aktuálně podporovány s bezpečnostními aktualizacemi.
 
-| Version | Supported          |
+| Verze | Podporováno          |
 | ------- | ------------------ |
 | 5.1.x   | :white_check_mark: |
 | 5.0.x   | :x:                |
